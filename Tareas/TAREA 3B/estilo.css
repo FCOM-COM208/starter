@@ -1,0 +1,11 @@
+body {
+    background-color: darkgrey
+}
+
+
+.titulo-lugares {
+    color: #7c0080; /* Cambia este color según lo que prefieras */
+    font-weight: bold;
+    font-size: 24px;
+
+}
